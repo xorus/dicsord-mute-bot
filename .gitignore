@@ -1,0 +1,8 @@
+target/
+.settings/
+out/
+.idea/
+*.tar.gz
+*~
+discord-mute-bot.iml
+resources/config.yaml
